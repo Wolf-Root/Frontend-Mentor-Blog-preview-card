@@ -10,7 +10,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 -   [My process](#my-process)
     -   [Built with](#built-with)
 -   [Author](#author)
--   [Acknowledgments](#acknowledgments)
 
 ## Overview
 
