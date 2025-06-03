@@ -19,8 +19,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/Wolf-Root/Frontend-Mentor-Blog-preview-card)
--   Live Site URL: [Add live site URL here](https://wolf-root.github.io/Frontend-Mentor-Blog-preview-card/)
+-   [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor---blog-preview-card-solution-htmlscss-24HEcmJGOH)
+-   [Live Site](https://wolf-root.github.io/Frontend-Mentor-Blog-preview-card/)
+
 
 ## My process
 
